@@ -16,6 +16,8 @@
 
 依据：单一事实源——规格只活在一处（roadmap/handbook/specification），journal 不留副本；journal 的价值是过程与时间线，不是规格的存储层。
 
+4. **兜底流向 profile/default.md**：整理中被移出、但暂时没有明确归宿（进不了规格/路线图/洞察）的内容，默认移到 `data/profile/<作者>/default.md` 作为**材料备用**——它们是"还没被处理"的材料（见 roadmap/qtcloud-work/material.md 的定义），等未来某次整理被认领升级或淘汰。default.md 按时间与主题分节堆放，允许混乱，因为它就是材料的暂存区；材料升级进正式家之后从 default.md 删除。
+
 ## 许可
 
 [CC BY 4.0](LICENSE)
