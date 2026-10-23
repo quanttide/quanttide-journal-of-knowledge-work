@@ -8,6 +8,12 @@
 
 ---
 
+## [Unreleased]
+
+### 变更
+
+- 创始人日志两篇（2026-09-10、09-11）归档至 archive 仓的 `profile/quanttide-founder/journal/`，本仓不再保留
+
 ## [0.1.0] - 2026-09-29
 
 ### 新增
